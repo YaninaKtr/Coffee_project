@@ -1,0 +1,15 @@
+"Nab C, Maslin M. Life cycle assessment synthesis of the carbon footprint of Arabica coffee: Case study of Brazil and Vietnam conventional and sustainable coffee production and export to the United Kingdom. Geo: Geography and Environment. 2020;e96. https://doi.org/10.1002/geo2.96",,,,,
+Life cycle inventory of the main inputs and outputs for conventional and sustainable coffee production in Brazil (top) and Vietnam (bottom); data refer to 1 kg of green coffee beans,,,,,
+,,Brazil conventional,Vietnam conventional,Brazil sustainable,Vietnam sustainable
+Growing,"Fertiliser, kg",0.23,0.23,0.5,0.5
+Growing,"Fossil fuels, kg",0.01,0.01,0.01,0.01
+Growing,"Electricity, kWh",0.11,0.11,0.11,0.11
+Growing,"Pesticides, kg",0.01,0.01,0,0
+Milling,"Water, L",22.05,22.05,0.79,0.79
+Milling,"Electricity, kWh",0.26,0.26,0.04,0.04
+Milling,"Fossil fuels, kg",0.03,0.03,0.03,0.03
+Milling,"Fuel (firewood), kg",1.54,1.54,1.54,1.54
+Exportation,"Van/lorry, km",14,338,101,333
+Exportation,"Freight flight distance, km",9353.39,10372,9660.03,16169.81
+Exportation,"Van distance, km",27,27,1.6,1.6
+Outputs,"Green coffee, kg",1,1,1,1

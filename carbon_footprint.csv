@@ -1,0 +1,20 @@
+Carbon emission of Costa Rican coffee supply chain per 1 kilogram of green coffee,,,
+,stage,,"carbon emissions, kg"
+Costa Rica,Farm level,Fertilizers,0.96
+Costa Rica,Farm level,"Fossil fuels: diesel, gas, others",0.03
+Costa Rica,Farm level,Electricity ,0.02
+Costa Rica,Farm level,Pesticides ,0.01
+Costa Rica,Central Mill,Decomposition of organic matter in wastewater ,0.514
+Costa Rica,Central Mill,"Fossil fuels: diesel, gas, others ",0.097
+Costa Rica,Central Mill,Administrative activities ,0.031
+Costa Rica,Central Mill,Biomass burning ,0.002
+Costa Rica,Exportation,Sea transportation ,0.185
+Costa Rica,Exportation,Transportation by land from port to storage destination,0.041
+Costa Rica,Exportation,Transportation by land from mill to port ,0.033
+Costa Rica,Exportation,Administrative activities ,0.006
+Europe,Roasting,Roasting ,0.19
+Europe,Packaging,Packaging ,0.13
+Europe,Distribution,Distribution ,0.15
+Europe,Grinding + Purchasing,Grinding + purchasing ,0.29
+Europe,Consumption,Consumption ,2.15
+Europe,Disposal,Disposal ,0.14

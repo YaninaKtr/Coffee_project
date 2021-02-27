@@ -1,0 +1,17 @@
+Energy,,
+,,
+Summary of energy use for one cup (100mL) of coffee,,
+https://www.appropedia.org/LCA_of_coffee#LCA_Results:_A_Review_of_Total_Resources_Used,,
+Process,Level,MJ per 100mL
+Cultivation,Farm,0.2
+Irrigation (4000 m^3/ha/yr),Farm,0.24
+Treatment,Farm,0.11
+Delivery,Transportation,0.04
+Processing,Plant,0.05
+Packaging,Packaging,0.04
+Distribution,Distribution,0.03
+Brewing,Consumption,0.86
+Washing,,0.39
+Cup and Coffee Equipment Manufacture,,0.05
+End of Life Wastes (coffee grounds),End of life,-0.07
+Total,,1.94

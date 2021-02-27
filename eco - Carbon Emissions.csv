@@ -1,0 +1,17 @@
+Carbon Emissions,,
+https://www.appropedia.org/LCA_of_coffee#LCA_Results:_A_Review_of_Total_Resources_Used,,
+Summary of carbon emissions for one cup (100mL) of coffee,,
+,,
+Process,Level,g of Carbon-Dioxide Equivalent per 100mL
+Cultivation,Farm,24.32
+Irrigation (4000 m^3/ha/yr),Farm,6.08
+Treatment,Farm,8.38
+Delivery,Transportation,2.63
+Processing,Plant,2.63
+Packaging,Packaging,2.79
+Distribution,Distribution,2.79
+Brewing,Consumption,44.03
+Washing,,20.87
+Cup and Coffee Equipment Manufacture,,3.29
+End of Life Wastes,End of life,-3.78
+Total,,114.03

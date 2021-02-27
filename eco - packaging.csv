@@ -1,0 +1,30 @@
+Packaging materials of investigated coffee pods,,,,,,
+"Comparative Life Cycle Assessment of Single-Serve Coffee Packaging in Ontario by Jingxi Li, 2017",,,,,,
+Weighing Results of Three Coffee Pods,,,,,,
+https://core.ac.uk/download/pdf/151194065.pdf,,,,,,
+Pod Type,Components,,,Mass (g),"Recycling, %","Composting, %"
+Polystyrene Pod,Filter,materials,"Kraft paper, bleached",0.224,0,
+Polystyrene Pod,Filter,materials,"Polyethylene, LDPE",0.057,0,
+Polystyrene Pod,Aluminum lid,materials,Aluminum foil ,0.0692,0,
+Polystyrene Pod,Aluminum lid,materials,Polyethylene terephthalate,0.035,0,
+Polystyrene Pod,Aluminum lid,materials,"Polyethylene, LDPE",0.148,0,
+Polystyrene Pod,Aluminum lid,materials,"Printing color, offset, 47.5% solvent",0.038,0,
+Polystyrene Pod,Shell,materials,Polystyrene ,2.64,0,
+Polystyrene Pod,Shell,materials,Ethylene vinyl alcohol ,0.0449,0,
+Polystyrene Pod,Shell,materials,Polyethylene,0.121,0,
+Polystyrene Pod,Exterior package,materials,Solid unbleached board,2.83,62.5,
+Polystyrene Pod,Coffee ground ,materials,Coffee ground ,9.81,0,
+Aluminum Pod ,Aluminum lid,materials,Aluminum foil ,0.042,14,
+Aluminum Pod ,Aluminum lid,materials,Polyethylene terephthalate,0.02,14,
+Aluminum Pod ,Aluminum lid,materials,Polyethylene,0.087,14,
+Aluminum Pod ,Shell ,materials,Aluminum alloy ,1.81,14,
+Aluminum Pod ,Exterior package,materials,Solid bleached board ,4.47,62.5,
+Aluminum Pod ,Coffee ground ,materials,Coffee ground ,12.92,0,
+Biodegradable Pod,Paper lid ,materials,Kraft paper ,0.288,0,40
+Biodegradable Pod,Paper lid ,materials,Polylactic acid ,0.033,0,40
+Biodegradable Pod,Ring ,materials,Polylactic acid ,1.82,0,40
+Biodegradable Pod,Ring ,materials,Coffee chaff ,0.46,0,40
+Biodegradable Pod,Mesh PLA 0.24,materials,Polylactic acid ,0.25,0,40
+Biodegradable Pod,Wrapping bag ,materials,Polyethylene,1.26,0,0
+Biodegradable Pod,Exterior package,materials,Solid unbleached board,4.95,62.5,
+Biodegradable Pod,Coffee ground ,materials,Coffee ground ,10.46,0,40

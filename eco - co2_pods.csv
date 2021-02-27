@@ -1,0 +1,48 @@
+"Comparative Life Cycle Assessment of Single-Serve Coffee Packaging in Ontario by Jingxi Li, 2017",,,
+Weighing Results of Three Coffee Pods,,,
+https://core.ac.uk/download/pdf/151194065.pdf,,,
+Global Worming Potential,,,CO2 eq. / 1000 p
+Polystyrene Pod,Shell,PS,8.9
+Polystyrene Pod,Shell,Shaping,2.8
+Polystyrene Pod,Shell,Other plastic,0.34
+Polystyrene Pod,Filter,Shaping,0.02
+Polystyrene Pod,Filter,Other plastic,0.12
+Polystyrene Pod,Filter,Kraft paper,0.35
+Polystyrene Pod,Lid,Aluminium,0.82
+Polystyrene Pod,Lid,Other plastic,0.46
+Polystyrene Pod,Lid,Shaping,0.16
+Polystyrene Pod,Exterior package,Box production,0.94
+Polystyrene Pod,Exterior package,Solid unbleached board ,2.4
+Polystyrene Pod,Transportation,Transportation,1.53
+Polystyrene Pod,EOL,Landfilling,0.35
+Polystyrene Pod,EOL,Transportation,0.06
+Polystyrene Pod,EOL,Recycled solid unbleached board ,-1.5
+Aluminum Pod ,Shell,Shaping,1.47
+Aluminum Pod ,Shell,Anodzing,17.6
+Aluminum Pod ,Shell,Aluminium,21.5
+Aluminum Pod ,Lid,Shaping,0.12
+Aluminum Pod ,Lid,Other plastic,0.24
+Aluminum Pod ,Lid,Aluminium,0.5
+Aluminum Pod ,Exterior package,Box production,1.17
+Aluminum Pod ,Exterior package,Solid bleached board ,4.44
+Aluminum Pod ,Transportation,Transportation,1.65
+Aluminum Pod ,EOL,Landfilling,0.05
+Aluminum Pod ,EOL,Transportation,0.05
+Aluminum Pod ,EOL,Recycled solid bleached board ,-2.2
+Aluminum Pod ,EOL,Aluminium recycling,-3
+Biodegradable Pod,Ring,PLA,5.44
+Biodegradable Pod,Ring,Shaping,1.47
+Biodegradable Pod,Mesh,PLA,0.75
+Biodegradable Pod,Mesh,Shaping,0.01
+Biodegradable Pod,Lid,Shaping,0.05
+Biodegradable Pod,Lid,Kraft paper,0.15
+Biodegradable Pod,Lid,PLA,0.1
+Biodegradable Pod,Plastic wrap,LDPE,2.64
+Biodegradable Pod,Plastic wrap,Shaping,0.4
+Biodegradable Pod,Exterior package,Box production,1.23
+Biodegradable Pod,Exterior package,Solid unbleached board ,2.79
+Biodegradable Pod,Transportation,Transportation,0.69
+Biodegradable Pod,EOL,Landfilling,0.28
+Biodegradable Pod,EOL,Transportation,0.08
+Biodegradable Pod,EOL,Recycled solid unbleached board ,-1.74
+Biodegradable Pod,EOL,Compost product,-0.02

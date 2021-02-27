@@ -1,0 +1,20 @@
+,lca11_onlinefirst_editorial helias.pmd (ugent.be),,,
+,Environmental Profile of Brazilian Green Coffee (6 pp) | Request PDF (researchgate.net),,,
+,Environmental Profile of Brazilian Green Coffee,,,
+,"Leda Coltro*, Anna Lúcia Mourad, Paula A.P.L.V. O",,,
+,"Table 1: Summary of the Brazilian life cycle inventory for 1,000 kg",,,
+,,,,
+Input/Output,Parameters ,Unit ,Weighted Average,Arithmetic Average
+Input,"Energy, total",MJ ,10670,12195
+Input,Electric (public grid),MJ ,646,533
+Input,LPG,kg,6,26
+Input,Wood,kg,368,782
+Input,Diesel,kg,94,77
+Input,Water for coffee processing (coffee washing and the wet method),,11437,10160
+Input,Fertilizers,kg,911,1160
+Input,Pesticides,kg,10,10
+Input,Correctives,kg,622,749
+Input,Land Use,ha,0.05,0.05
+Output,"Organic residue used as fertilizer, kg ",kg,757,758
+Output,"Waste water (coffee washing), kg ",kg,2901,5803
+Output,"Waste water (wet route), kg",kg,8535,6808
